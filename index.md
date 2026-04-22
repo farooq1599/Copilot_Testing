@@ -1,6 +1,4 @@
-# CSDS Team Projects
-
-
+<pre>
 Team Name         : CSDS Offshore Oracle - Development Team
 Team DL           : SPDIOffshoreOracle@iqvia.com
 Team Architect    : Baluch Shahid - shahid.baluch@iqvia.com
@@ -22,3 +20,4 @@ Active Implementations :-
 8. FERRING
 9. VT
 10. JANSSEN
+</pre>
